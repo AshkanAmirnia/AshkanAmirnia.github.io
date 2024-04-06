@@ -71,7 +71,7 @@
 
 <section id="contact">
     <h2>Contact Information</h2>
-    <p>You can reach me at: example@email.com</p>
+    <p>You can reach me at: ashkan.amirnia@polymtl.ca</p>
     <!-- Add more contact information as needed -->
 </section>
 
