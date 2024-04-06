@@ -1,55 +1,78 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Page</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Your GitHub Page Title</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            color: #555;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
 </head>
 <body>
 
 <header>
-    <h1>Welcome/Khoshamadid</h1>
-    <nav>
-        <ul>
-            <li><a href="#home">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#portfolio">Portfolio</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </nav>
+    <h1>Welcome/خوش آمدید</h1>
 </header>
 
-<section id="home">
-    <div class="container">
-        <h2>Home</h2>
-        <p>Welcome to my GitHub Page. This is the homepage.</p>
-    </div>
-</section>
-
 <section id="about">
-    <div class="container">
-        <h2>About</h2>
-        <p>About me section goes here.</p>
-    </div>
+    <h2>About</h2>
+    <p>A short description about yourself or your project.</p>
 </section>
 
-<section id="portfolio">
-    <div class="container">
-        <h2>Portfolio</h2>
-        <p>Portfolio items will be displayed here.</p>
-    </div>
+<section id="skills">
+    <h2>My Skills</h2>
+    <ul>
+        <li>Skill 1</li>
+        <li>Skill 2</li>
+        <li>Skill 3</li>
+        <!-- Add more skills as needed -->
+    </ul>
 </section>
 
 <section id="contact">
-    <div class="container">
-        <h2>Contact</h2>
-        <p>Contact information goes here.</p>
-    </div>
+    <h2>Contact Information</h2>
+    <p>You can reach me at: example@email.com</p>
+    <!-- Add more contact information as needed -->
 </section>
 
 <footer>
-    <p>&copy; 2024 My GitHub Page. All rights reserved.</p>
+    <p>&copy; 2024 Your Name</p>
 </footer>
 
 </body>
