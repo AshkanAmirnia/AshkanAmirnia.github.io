@@ -13,7 +13,7 @@
         }
         header {
             /* Set background image */
-            background-image: url('header-image.jpg');
+            background-image: url('header.png');
             /* Set background size to cover the entire header */
             background-size: cover;
             /* Set background position to center */
