@@ -10,10 +10,9 @@
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-            background-color: blue;
         }
         header {
-            background-color: #333;
+            background-color: grey;
             color: #fff;
             padding: 20px;
             text-align: center;
