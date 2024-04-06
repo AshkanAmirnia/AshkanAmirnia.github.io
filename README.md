@@ -35,7 +35,7 @@
         }
         footer {
             background-color: #3B898A;
-            color: #fff;
+            color: #3B898A;
             padding: 20px;
             text-align: center;
             position: fixed;
