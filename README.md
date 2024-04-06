@@ -58,9 +58,13 @@
 <section id="skills">
     <h2>My Skills</h2>
     <ul>
-        <li>Skill 1</li>
-        <li>Skill 2</li>
-        <li>Skill 3</li>
+        <li>Applied machine learning</li>
+        <li>Real-time decision-making</li>
+        <li>Reinforcement Learning application in industry</li>
+        <li>Robotic/cobotic manufacturing</li>
+        <li>Computer vision</li>
+        <li>Recommender systems and personalization</li>
+
         <!-- Add more skills as needed -->
     </ul>
 </section>
