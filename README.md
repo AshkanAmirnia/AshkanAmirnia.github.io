@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,7 +9,7 @@
 <body>
 
 <header>
-    <h1>Welcome to My GitHub Page</h1>
+    <h1>Welcome/Khoshamadid</h1>
     <nav>
         <ul>
             <li><a href="#home">Home</a></li>
