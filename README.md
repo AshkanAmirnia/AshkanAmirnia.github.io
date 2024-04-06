@@ -75,9 +75,7 @@
     <!-- Add more contact information as needed -->
 </section>
 
-<footer>
-    <p>&copy; 2024 Your Name</p>
-</footer>
+
 
 </body>
 </html>
