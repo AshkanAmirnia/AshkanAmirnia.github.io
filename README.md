@@ -9,7 +9,7 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-image: url('image_1.jpg'); /* Replace 'background.jpg' with your background image path */
+      background-image: url('image.jpg'); /* Replace 'background.jpg' with your background image path */
       background-size: cover;
       background-position: center;
       color: #fff;
