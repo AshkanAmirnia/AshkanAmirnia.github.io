@@ -58,7 +58,7 @@
       <li>Computer vision</li>
       <li>Recommender systems and personalization</li>
     </ul>
-    </p>
+    
     <h3>Education</h3>
     <ul>
       <li>PhD in Polytechnique montreal  2022-present</li>
