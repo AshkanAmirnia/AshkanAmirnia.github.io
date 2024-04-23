@@ -58,6 +58,12 @@
       <li>Computer vision</li>
       <li>Recommender systems and personalization</li>
     </ul>
+        <h3>Education</h3>
+    <ul>
+      <li>polytechnique montreal</li>
+      <li>Sharif university</li>
+      <li>Shahid chamran university</li>
+    </ul>
     <h3>Contact Information</h3>
     <p>You can reach me at: <a href="mailto:ashkan.amirnia@polymtl.ca">ashkan.amirnia@polymtl.ca</a></p>
   </div>
