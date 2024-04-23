@@ -9,7 +9,7 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-image: url('image.jpg'); /* Replace 'background.jpg' with your background image path */
+      background-image: url('1.png'); /* Replace 'background.jpg' with your background image path */
       background-size: cover;
       background-position: center;
       color: #fff;
@@ -58,7 +58,8 @@
       <li>Computer vision</li>
       <li>Recommender systems and personalization</li>
     </ul>
-        <h3>Education</h3>
+    </p>
+    <h3>Education</h3>
     <ul>
       <li>PhD in Polytechnique montreal  2022-present</li>
       <li>Master of Engineering in Sharif university  2016-2019</li>
