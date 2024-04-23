@@ -60,9 +60,9 @@
     </ul>
         <h3>Education</h3>
     <ul>
-      <li>polytechnique montreal</li>
-      <li>Sharif university</li>
-      <li>Shahid chamran university</li>
+      <li>PhD in Polytechnique montreal  2022-present</li>
+      <li>Master of Engineering in Sharif university  2016-2019</li>
+      <li>Bachelor of Science in Shahid chamran university  2012-2016</li>
     </ul>
     <h3>Contact Information</h3>
     <p>You can reach me at: <a href="mailto:ashkan.amirnia@polymtl.ca">ashkan.amirnia@polymtl.ca</a></p>
