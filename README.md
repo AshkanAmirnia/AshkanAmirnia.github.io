@@ -56,6 +56,10 @@
   </div>
   <div class="container">
     <img src="Ashkan.jpg" alt="Profile Picture" class="profile"> <!-- Replace 'profile.jpg' with your profile picture path -->
+   
+
+ <hr class="section-divider">
+    
     <div class="left-align justify">
       <h3>About Me</h3>
       
