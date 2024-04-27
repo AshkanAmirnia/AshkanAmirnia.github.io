@@ -40,6 +40,10 @@
     .left-align {
       text-align: left;
     }
+    .section-divider {
+      border-bottom: 2px solid white;
+      margin-bottom: 20px;
+    }
   </style>
 </head>
 <body>
@@ -62,15 +66,15 @@
         <li>Computer vision</li>
         <li>Recommender systems and personalization</li>
       </ul>
-      
+      <div class="section-divider"></div>
       <h3>Education</h3>
       <ul>
         <li>PhD in Polytechnique montreal  2022-present</li>
         <li>Master of Engineering in Sharif university  2016-2019</li>
         <li>Bachelor of Science in Shahid chamran university  2012-2016</li>
       </ul>
+      <div class="section-divider"></div>
     </div>
-    
     <h3>Contact Information</h3>
     <p>You can reach me at: <a href="mailto:ashkan.amirnia@polymtl.ca">ashkan.amirnia@polymtl.ca</a></p>
   </div>
