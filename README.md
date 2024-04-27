@@ -23,19 +23,28 @@
       max-width: 800px;
       margin: 0 auto;
       padding: 50px;
-      text-align: center;
     }
-    img.profile {
+    .profile {
       width: 200px;
       height: 200px;
       border-radius: 50%;
       margin-bottom: 20px;
     }
-    h1, h2 {
+    h2 {
       margin-bottom: 20px;
     }
     p {
       margin-bottom: 10px;
+    }
+    .left-column {
+      text-align: left;
+      float: left;
+      width: 50%; /* Adjust this value based on your preference */
+    }
+    .right-column {
+      text-align: left;
+      float: right;
+      width: 50%; /* Adjust this value based on your preference */
     }
   </style>
 </head>
@@ -44,29 +53,34 @@
     <h1>Welcome / خوش آمدید</h1>
   </div>
   <div class="container">
-    <img src="Ashkan.jpg" alt="Profile Picture" class="profile"> <!-- Replace 'profile.jpg' with your profile picture path -->
-    <h2>About Me</h2>
-    <p>
-      During my teenage years, I discovered a magazine focused on science and technology called Danestaniha. After reading a few editions, I became a fan of the magazine. It not only provided entertainment but also ignited my interest in the world of science and technology. This fascination led me to pursue a degree in electronic engineering at the university, a field closely associated with technology. In my final year of undergraduate studies, I was introduced to Artificial Intelligence (AI), and my interest in this field deepened. Motivated by this passion, I pursued a Master's degree in AI, specializing in real-time computer vision, at Sharif University of Technology. Throughout my years of study, I successfully completed various courses related to AI, including image processing, machine learning, machine vision, computer vision in intelligent environments, parallel programming, data mining, and advanced statistical analysis. After obtaining my master's degree, I garnered valuable experience by working as a machine learning engineer and consultant for several years, contributing to diverse industrial projects. Since the summer of 2022, I have been pursuing my Ph.D. under the supervision of Professor Samira Kivanpour. My research focuses on developing machine learning algorithms for human-robot collaboration disassembly planning. My objective is to develop autonomous models capable of making real-time decisions based on dynamic conditions. In essence, tackling machine learning challenges is not just a job for me; it is a hobby that I truly enjoy.
-    </p>
-    <h3>My Skills</h3>
-    <ul>
-      Applied machine learning
-      Real-time decision-making
-      Reinforcement Learning application in industry
-      Robotic/cobotic manufacturing
-      Computer vision
-      Recommender systems and personalization
-    </ul>
-    
-    <h3>Education</h3>
-    <ul>
-      PhD in Polytechnique montreal  2022-present
-      Master of Engineering in Sharif university  2016-2019
-      Bachelor of Science in Shahid chamran university  2012-2016
-    </ul>
-    <h3>Contact Information</h3>
-    <p>You can reach me at: <a href="mailto:ashkan.amirnia@polymtl.ca">ashkan.amirnia@polymtl.ca</a></p>
+    <div class="left-column">
+      <img src="Ashkan.jpg" alt="Profile Picture" class="profile"> <!-- Replace 'profile.jpg' with your profile picture path -->
+      <h2>About Me</h2>
+      <p>
+        During my teenage years, I discovered a magazine focused on science and technology called Danestaniha. After reading a few editions, I became a fan of the magazine. It not only provided entertainment but also ignited my interest in the world of science and technology. This fascination led me to pursue a degree in electronic engineering at the university, a field closely associated with technology. In my final year of undergraduate studies, I was introduced to Artificial Intelligence (AI), and my interest in this field deepened. Motivated by this passion, I pursued a Master's degree in AI, specializing in real-time computer vision, at Sharif University of Technology. Throughout my years of study, I successfully completed various courses related to AI, including image processing, machine learning, machine vision, computer vision in intelligent environments, parallel programming, data mining, and advanced statistical analysis. After obtaining my master's degree, I garnered valuable experience by working as a machine learning engineer and consultant for several years, contributing to diverse industrial projects. Since the summer of 2022, I have been pursuing my Ph.D. under the supervision of Professor Samira Kivanpour. My research focuses on developing machine learning algorithms for human-robot collaboration disassembly planning. My objective is to develop autonomous models capable of making real-time decisions based on dynamic conditions. In essence, tackling machine learning challenges is not just a job for me; it is a hobby that I truly enjoy.
+      </p>
+    </div>
+    <div class="right-column">
+      <h2>My Skills</h2>
+      <ul>
+        <li>Applied machine learning</li>
+        <li>Real-time decision-making</li>
+        <li>Reinforcement Learning application in industry</li>
+        <li>Robotic/cobotic manufacturing</li>
+        <li>Computer vision</li>
+        <li>Recommender systems and personalization</li>
+      </ul>
+      
+      <h2>Education</h2>
+      <ul>
+        <li>PhD in Polytechnique montreal  2022-present</li>
+        <li>Master of Engineering in Sharif university  2016-2019</li>
+        <li>Bachelor of Science in Shahid chamran university  2012-2016</li>
+      </ul>
+      <h3>Contact Information</h3>
+      <p>You can reach me at: <a href="mailto:ashkan.amirnia@polymtl.ca">ashkan.amirnia@polymtl.ca</a></p>
+    </div>
+    <div style="clear: both;"></div> <!-- Clear floats -->
   </div>
 </body>
 </html>
