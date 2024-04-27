@@ -51,12 +51,12 @@
     </p>
     <h3>My Skills</h3>
     <ul>
-      <li>Applied machine learning</li>
-      <li>Real-time decision-making</li>
-      <li>Reinforcement Learning application in industry</li>
-      <li>Robotic/cobotic manufacturing</li>
-      <li>Computer vision</li>
-      <li>Recommender systems and personalization</li>
+      Applied machine learning</li>
+      Real-time decision-making</li>
+      Reinforcement Learning application in industry</li>
+      Robotic/cobotic manufacturing</li>
+      Computer vision</li>
+      Recommender systems and personalization</li>
     </ul>
     
     <h3>Education</h3>
