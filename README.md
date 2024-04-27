@@ -31,7 +31,7 @@
       border-radius: 50%;
       margin-bottom: 20px;
     }
-    h1, h2 {
+    h1, h2, h3 {
       margin-bottom: 20px;
     }
     p {
@@ -40,13 +40,13 @@
     .left-align {
       text-align: left;
     }
+    .justify {
+      text-align: justify;
+    }
     .section-divider {
       border-top: 1px solid #fff;
       margin-top: 20px;
       margin-bottom: 20px;
-    }
-    .left-align h2 {
-      text-align: left;
     }
   </style>
 </head>
@@ -56,12 +56,12 @@
   </div>
   <div class="container">
     <img src="Ashkan.jpg" alt="Profile Picture" class="profile"> <!-- Replace 'profile.jpg' with your profile picture path -->
-   
-
-    <h3 class="left-align">About Me</h3>
-    
-      During my teenage years, I discovered a magazine focused on science and technology called Danestaniha. After reading a few editions, I became a fan of the magazine. It not only provided entertainment but also ignited my interest in the world of science and technology. This fascination led me to pursue a degree in electronic engineering at the university, a field closely associated with technology. In my final year of undergraduate studies, I was introduced to Artificial Intelligence (AI), and my interest in this field deepened. Motivated by this passion, I pursued a Master's degree in AI, specializing in real-time computer vision, at Sharif University of Technology. Throughout my years of study, I successfully completed various courses related to AI, including image processing, machine learning, machine vision, computer vision in intelligent environments, parallel programming, data mining, and advanced statistical analysis. After obtaining my master's degree, I garnered valuable experience by working as a machine learning engineer and consultant for several years, contributing to diverse industrial projects. Since the summer of 2022, I have been pursuing my Ph.D. under the supervision of Professor Samira Kivanpour. My research focuses on developing machine learning algorithms for human-robot collaboration disassembly planning. My objective is to develop autonomous models capable of making real-time decisions based on dynamic conditions. In essence, tackling machine learning challenges is not just a job for me; it is a hobby that I truly enjoy.
-    
+    <div class="left-align justify">
+      <h3>About Me</h3>
+      
+        During my teenage years, I discovered a magazine focused on science and technology called Danestaniha. After reading a few editions, I became a fan of the magazine. It not only provided entertainment but also ignited my interest in the world of science and technology. This fascination led me to pursue a degree in electronic engineering at the university, a field closely associated with technology. In my final year of undergraduate studies, I was introduced to Artificial Intelligence (AI), and my interest in this field deepened. Motivated by this passion, I pursued a Master's degree in AI, specializing in real-time computer vision, at Sharif University of Technology. Throughout my years of study, I successfully completed various courses related to AI, including image processing, machine learning, machine vision, computer vision in intelligent environments, parallel programming, data mining, and advanced statistical analysis. After obtaining my master's degree, I garnered valuable experience by working as a machine learning engineer and consultant for several years, contributing to diverse industrial projects. Since the summer of 2022, I have been pursuing my Ph.D. under the supervision of Professor Samira Kivanpour. My research focuses on developing machine learning algorithms for human-robot collaboration disassembly planning. My objective is to develop autonomous models capable of making real-time decisions based on dynamic conditions. In essence, tackling machine learning challenges is not just a job for me; it is a hobby that I truly enjoy.
+      
+    </div>
     <hr class="section-divider">
     <div class="left-align">
       <h3>My Skills</h3>
