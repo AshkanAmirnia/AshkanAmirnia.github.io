@@ -51,19 +51,19 @@
     </p>
     <h3>My Skills</h3>
     <ul>
-      <li>Applied machine learning</li>
-      <li>Real-time decision-making</li>
-      <li>Reinforcement Learning application in industry</li>
-      <li>Robotic/cobotic manufacturing</li>
+      Applied machine learning
+      Real-time decision-making
+      Reinforcement Learning application in industry
+      Robotic/cobotic manufacturing
       Computer vision
-      <li>Recommender systems and personalization</li>
+      Recommender systems and personalization
     </ul>
     
     <h3>Education</h3>
     <ul>
-      <li>PhD in Polytechnique montreal  2022-present</li>
-      <li>Master of Engineering in Sharif university  2016-2019</li>
-      <li>Bachelor of Science in Shahid chamran university  2012-2016</li>
+      PhD in Polytechnique montreal  2022-present
+      Master of Engineering in Sharif university  2016-2019
+      Bachelor of Science in Shahid chamran university  2012-2016
     </ul>
     <h3>Contact Information</h3>
     <p>You can reach me at: <a href="mailto:ashkan.amirnia@polymtl.ca">ashkan.amirnia@polymtl.ca</a></p>
