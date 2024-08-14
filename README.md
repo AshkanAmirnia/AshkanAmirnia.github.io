@@ -82,12 +82,11 @@
       <hr class="section-divider">
 
 
-    </div>
-    <hr class="section-divider">
+    
     <div class="left-align">
       <h3>Hobbies</h3>
       <ul>
-        <li>I am not always busy with my research. You may find me reading books, watching movies, or taking long walks. If you know of any good books, movies, or series, please feel free to recommend them to me.</li>
+        <li>I am not always busy with my research. You may find me reading books, watching movies, or taking long walks in nature. If you know of any good books, movies, or series, please feel free to recommend them to me.</li>
         <li>Real-time decision-making</li>
         <li>Reinforcement Learning application in industry</li>
         <li>Robotic/cobotic manufacturing</li>
