@@ -90,9 +90,9 @@
 
       <h3>Languages</h3>
       <ul>
-        <li>Persian</li>
-        <li>English</li>
-        <li>Spanish</li>
+        <li> Persian </li>
+        <li> English </li>
+        <li> Spanish </li>
       </ul>
       <hr class="section-divider">
     </div>
