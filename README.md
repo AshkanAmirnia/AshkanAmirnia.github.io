@@ -87,11 +87,6 @@
       <h3>Hobbies</h3>
       <ul>
         <li>I am not always busy with my research. You may find me reading books, watching movies, or taking long walks in nature. If you know of any good books, movies, or series, please feel free to recommend them to me.</li>
-        <li>Real-time decision-making</li>
-        <li>Reinforcement Learning application in industry</li>
-        <li>Robotic/cobotic manufacturing</li>
-        <li>Computer vision</li>
-        <li>Recommender systems and personalization</li>
       </ul>
       <hr class="section-divider">
 
