@@ -87,6 +87,16 @@
       </ul>
       <hr class="section-divider">
     </div>
+
+      <h3>Languages</h3>
+      <ul>
+        <li>Persian</li>
+        <li>English</li>
+        <li>Spanish</li>
+      </ul>
+      <hr class="section-divider">
+    </div>
+
     
     <h3>Contact Information</h3>
     <p>You can reach me at: <a href="mailto:ashkan.amirnia@polymtl.ca">ashkan.amirnia@polymtl.ca</a></p>
