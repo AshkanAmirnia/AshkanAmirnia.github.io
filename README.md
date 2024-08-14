@@ -65,7 +65,6 @@
       
         During my teenage years, I discovered a magazine focused on science and technology called Danestaniha. After reading a few editions, I became a fan of the magazine. It not only provided entertainment but also ignited my interest in the world of science and technology. This fascination led me to pursue a degree in electronic engineering at the university, a field closely associated with technology. In my final year of undergraduate studies, I was introduced to Artificial Intelligence (AI), and my interest in this field deepened. Motivated by this passion, I pursued a Master's degree in AI, specializing in real-time computer vision, at Sharif University of Technology. Throughout my years of study, I successfully completed various courses related to AI, including image processing, machine learning, machine vision, computer vision in intelligent environments, parallel programming, data mining, and advanced statistical analysis. After obtaining my master's degree, I garnered valuable experience by working as a machine learning engineer and consultant for several years, contributing to diverse industrial projects. Since the summer of 2022, I have been pursuing my Ph.D. under the supervision of Professor Samira Kivanpour. My research focuses on developing machine learning algorithms for human-robot collaboration disassembly planning. My objective is to develop autonomous models capable of making real-time decisions based on dynamic conditions. In essence, tackling machine learning challenges is not just a job for me; it is a hobby that I truly enjoy.
 
-I am not always busy with my research. You may find me reading books, watching movies, or taking long walks. If you know of any good books, movies, or series, please feel free to recommend them to me.
 
       
     </div>
@@ -81,6 +80,22 @@ I am not always busy with my research. You may find me reading books, watching m
         <li>Recommender systems and personalization</li>
       </ul>
       <hr class="section-divider">
+
+
+    </div>
+    <hr class="section-divider">
+    <div class="left-align">
+      <h3>Hobbies</h3>
+      <ul>
+        <li>I am not always busy with my research. You may find me reading books, watching movies, or taking long walks. If you know of any good books, movies, or series, please feel free to recommend them to me.</li>
+        <li>Real-time decision-making</li>
+        <li>Reinforcement Learning application in industry</li>
+        <li>Robotic/cobotic manufacturing</li>
+        <li>Computer vision</li>
+        <li>Recommender systems and personalization</li>
+      </ul>
+      <hr class="section-divider">
+
       
       <h3>Education</h3>
       <ul>
