@@ -14,7 +14,6 @@
       color: #fff;
     }
     .header {
-      color: #ffcc00;
       padding: 20px;
       text-align: center;
       background-color: rgba(0, 0, 0, 0.5);
