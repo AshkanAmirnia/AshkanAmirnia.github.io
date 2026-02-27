@@ -93,7 +93,7 @@
       
       <h3>Education</h3>
       <ul>
-        <li>PhD in Polytechnique montreal  2022-present</li>
+        <li>PhD in Polytechnique montreal  2022-2025</li>
         <li>Master of Engineering in Sharif university  2016-2019</li>
         <li>Bachelor of Science in Shahid chamran university  2012-2016</li>
       </ul>
