@@ -104,5 +104,4 @@
     <h3>Contact Information</h3>
     <p>You can reach me at: <a href="mailto:ashkan.amirnia@polymtl.ca">ashkan.amirnia@polymtl.ca</a></p>
   </div>
-</body>
-</html>
+
