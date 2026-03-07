@@ -73,7 +73,7 @@
       <ul>
         <li>Applied machine learning</li>
         <li>Real-time decision-making</li>
-        <li>Reinforcement Learning application in industry</li>
+        <li>Reinforcement Learning</li>
         <li>Robotic/cobotic manufacturing</li>
         <li>Computer vision</li>
         <li>Recommender systems and personalization</li>
