@@ -120,6 +120,8 @@
           <li>Production planning</li>
           <li>Computer vision</li>
           <li>Recommender systems and personalization</li>
+          <li>Teamwork</li>
+          <li>Project management</li>
         </ul>
         
       </div>
