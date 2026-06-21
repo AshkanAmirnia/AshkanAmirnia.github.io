@@ -122,6 +122,7 @@
           <li>Recommender systems and personalization</li>
           <li>Teamwork</li>
           <li>Project management</li>
+          <li>Storytelling</li>
         </ul>
         
       </div>
@@ -138,7 +139,7 @@
         <ul>
           <li>Painting and drawing</li>
           <li>Taking long walks in nature</li>
-          <li>Reading Novels and Persian poem books</li>
+          <li>Reading Novels and persian poem books</li>
           <li>Watch movies, listen to music</li>
    
         </ul>
