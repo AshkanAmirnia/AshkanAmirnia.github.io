@@ -110,7 +110,7 @@
       </div>
     </div>
 
-    <!-- محتوای تب دوم: Skills & Hobbies -->
+    <!-- محتوای تب دوم: Skills -->
     <div id="skills" class="tab-content">
       <div class="left-align">
         <h3>My Skills</h3>
@@ -122,32 +122,16 @@
           <li>Recommender systems and personalization</li>
         </ul>
         
-        <hr class="section-divider">
-        
-        <h3>Hobbies</h3>
-        <ul>
-          <li>I am not always busy with my research. You may find me reading books, watching movies, or taking long walks in nature. If you know of any good books, movies, or series, please feel free to recommend them to me.</li>
-        </ul>
       </div>
     </div>
 
 
 
 
-    <!-- محتوای تب دوم: Skills & Hobbies -->
+    <!-- محتوای تب سوم: Hobbies -->
     <div id="hobbies" class="tab-content">
       <div class="left-align">
-        <h3>My Skills</h3>
-        <ul>
-          <li>Applied machine learning</li>
-          <li>Reinforcement learning</li>
-          <li>Production planning</li>
-          <li>Computer vision</li>
-          <li>Recommender systems and personalization</li>
-        </ul>
-        
-        <hr class="section-divider">
-        
+
         <h3>Hobbies</h3>
         <ul>
           <li>I am not always busy with my research. You may find me reading books, watching movies, or taking long walks in nature. If you know of any good books, movies, or series, please feel free to recommend them to me.</li>
