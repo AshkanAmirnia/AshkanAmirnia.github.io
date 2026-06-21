@@ -130,13 +130,17 @@
 
 
 
-    <!-- محتوای تب سوم: Hobbies -->
+    <!-- محتوای تب چهارم: Hobbies -->
     <div id="hobbies" class="tab-content">
       <div class="left-align">
 
         <h3>Hobbies</h3>
         <ul>
-          <li>I am not always busy with my research. You may find me reading books, watching movies, or taking long walks in nature. If you know of any good books, movies, or series, please feel free to recommend them to me.</li>
+          <li>Painting and drawing</li>
+          <li>Taking long walks in nature</li>
+          <li>Reading Novels and Persian poem books</li>
+          <li>Watch movies, listen to music</li>
+   
         </ul>
       </div>
     </div>
