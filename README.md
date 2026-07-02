@@ -100,7 +100,7 @@
       <button class="tab-button" onclick="openTab(event, 'skills')">Skills</button>
       <button class="tab-button" onclick="openTab(event, 'hobbies')">Hobbies</button>
       <button class="tab-button" onclick="openTab(event, 'education')">Education</button>
-      <button class="tab-button" onclick="openTab(event, 'notes')">Education</button>    
+      <button class="tab-button" onclick="openTab(event, 'notes')">Notes</button>    
     </div>
 
     <!-- محتوای تب اول: About Me -->
