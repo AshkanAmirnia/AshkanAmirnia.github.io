@@ -168,7 +168,7 @@
     <!-- محتوای تب دوم: Notes -->
     <div id="notes" class="tab-content">
       <div class="left-align">
-        <h3>My Skills</h3>
+       
         <ul>
           <li>ساکنان حرم ستر و عفاف ملکوت با من راه نشین باده ی مستانه زدند</li>
 
