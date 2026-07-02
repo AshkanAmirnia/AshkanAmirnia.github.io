@@ -161,6 +161,29 @@
       </div>
     </div>
 
+
+
+
+    <!-- محتوای تب دوم: Notes -->
+    <div id="notes" class="tab-content">
+      <div class="left-align">
+        <h3>My Skills</h3>
+        <ul>
+          <li>Applied machine learning</li>
+
+        </ul>
+        
+      </div>
+    </div>
+
+
+
+
+
+
+
+    
+
     <hr class="section-divider">
     
     <!-- بخش تماس در انتهای صفحه ثابت می‌ماند -->
