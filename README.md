@@ -141,7 +141,7 @@
           <li>Painting and drawing</li>
           <li>Taking long walks in nature</li>
           <li>Reading Novels and persian poem books</li>
-          <li>Watch movies, listen to music</li>
+          <li>Watching movies, listening to music</li>
    
         </ul>
       </div>
