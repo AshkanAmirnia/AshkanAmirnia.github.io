@@ -112,19 +112,25 @@
     </div>
 
     <!-- محتوای تب دوم: Skills -->
-    <div id="skills" class="tab-content">
-      <div class="left-align">
-        <h3>My Skills</h3>
-        <ul>
-          <li>Applied machine learning</li>
-          <li>Reinforcement learning</li>
-          <li>Production planning</li>
-          <li>Computer vision</li>
-          <li>Recommender systems and personalization</li>
-          <li>Teamwork</li>
-          <li>Project management</li>
-          <li>Storytelling</li>
-        </ul>
+<div id="skills" class="tab-content">
+  <div class="left-align">
+    <h3>My Skills</h3>
+
+    <h4>Technical Skills</h4>
+    <ul>
+      <li>Applied Machine Learning</li>
+      <li>Reinforcement Learning</li>
+      <li>Computer Vision</li>
+      <li>Recommender Systems and Personalization</li>
+      <li>Production Planning</li>
+    </ul>
+
+    <h4>Soft Skills</h4>
+    <ul>
+      <li>Teamwork</li>
+      <li>Project Management</li>
+      <li>Storytelling</li>
+    </ul>
         
       </div>
     </div>
