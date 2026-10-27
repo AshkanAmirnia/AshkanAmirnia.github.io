@@ -43,6 +43,11 @@
   justify-content: center;
   align-items: center;
   gap: 30px;
+  /* Background */
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 25px;
+  border-radius: 8px;
+  /* Spacing */
   margin-top: -10px;
   margin-bottom: 30px;
   color: #ffffff;
