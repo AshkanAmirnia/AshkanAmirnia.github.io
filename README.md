@@ -119,10 +119,20 @@ h1, h2, h3 {
     <img src="Ashkan.jpg" alt="Profile Picture" class="profile">
 
     <div class="personal-quote">
-      <p>Engineer by training,</p>
-      <p>Researcher by nature,</p>
-      <p>Artist at heart...</p>
-    </div>
+
+  <div class="quote-en">
+    <p>Engineer by training,</p>
+    <p>Researcher by nature,</p>
+    <p>Artist at heart...</p>
+  </div>
+
+  <div class="quote-fa" lang="fa" dir="rtl">
+    <p>مهندس به واسطه ی آموزش،</p>
+    <p>پژوهشگر به سرشت،</p>
+    <p>هنرمند در عمق جان...</p>
+  </div>
+
+</div>
     <!-- دکمه‌های تب‌ها -->
     <div class="tab-container">
       <button class="tab-button active" onclick="openTab(event, 'about')">About Me</button>
