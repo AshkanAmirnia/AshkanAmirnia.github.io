@@ -39,21 +39,43 @@
 }
 /* Personal Quote Below Profile Picture */
 .personal-quote {
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
   margin-top: -10px;
   margin-bottom: 30px;
+  color: #ffffff;
+}
+.quote-en {
+  text-align: center;
   font-family: Georgia, serif;
   font-style: italic;
   font-size: 18px;
-  line-height: 1.5;
-  color: #ffffff;
-  letter-spacing: 0.5px;
+  line-height: 1.7;
+}
+.quote-fa {
+  text-align: center;
+  font-family: Tahoma, sans-serif;
+  font-size: 18px;
+  line-height: 1.7;
+  border-left: 1px solid rgba(255,255,255,0.6);
+  padding-left: 30px;
 }
 .personal-quote p {
   margin: 3px 0;
 }
-h1, h2, h3 {
-  margin-bottom: 20px;
+@media (max-width: 600px) {
+  .personal-quote {
+    flex-direction: column;
+    gap: 15px;
+  }
+  .quote-fa {
+    border-left: none;
+    border-top: 1px solid rgba(255,255,255,0.6);
+    padding-left: 0;
+    padding-top: 15px;
+  }
 }   
     h1, h2, h3 {
       margin-bottom: 20px;
