@@ -31,6 +31,30 @@
       border-radius: 50%;
       margin-bottom: 20px;
     }
+    img.profile {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+/* Personal Quote Below Profile Picture */
+.personal-quote {
+  text-align: center;
+  margin-top: -10px;
+  margin-bottom: 30px;
+  font-family: Georgia, serif;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #ffffff;
+  letter-spacing: 0.5px;
+}
+.personal-quote p {
+  margin: 3px 0;
+}
+h1, h2, h3 {
+  margin-bottom: 20px;
+}   
     h1, h2, h3 {
       margin-bottom: 20px;
     }
@@ -94,6 +118,11 @@
   <div class="container">
     <img src="Ashkan.jpg" alt="Profile Picture" class="profile">
 
+    <div class="personal-quote">
+      <p>Engineer by training,</p>
+      <p>Researcher by nature,</p>
+      <p>Artist at heart...</p>
+    </div>
     <!-- دکمه‌های تب‌ها -->
     <div class="tab-container">
       <button class="tab-button active" onclick="openTab(event, 'about')">About Me</button>
