@@ -51,6 +51,13 @@
   border-radius: 50%;
   margin-bottom: 20px;
 }
+  .tab-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 30px;
+}
 /* Personal Quote Below Profile Picture */
 .personal-quote {
   text-align: center;
