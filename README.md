@@ -92,15 +92,18 @@
     }
 
     
+
 .contact-section {
   text-align: center;
   padding: 20px;
 }
+
 .contact-section a {
   color: #00e6ff;
   text-decoration: none;
   transition: color 0.3s ease;
 }
+
 .contact-section a:hover {
   color: #ffffff;
   text-decoration: underline;
@@ -114,9 +117,26 @@
   flex-wrap: wrap;
 }
 .social-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
   font-size: 17px;
   font-weight: bold;
 }
+.social-icon {
+  width: 25px;
+  height: 25px;
+  object-fit: contain;
+}
+.linkedin-icon {
+  filter: invert(35%) sepia(94%)
+          saturate(1260%) hue-rotate(175deg)
+          brightness(95%);
+}
+.scholar-icon {
+  filter: brightness(0) invert(1);
+}
+
 
 
     /* --- استایل‌های مربوط به تب‌ها --- */
