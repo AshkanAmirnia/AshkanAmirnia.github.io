@@ -125,18 +125,18 @@
   font-size: 17px;
   font-weight: bold;
 }
-.social-icon {
-  width: 25px;
-  height: 25px;
-  object-fit: contain;
+.social-links a i {
+  font-size: 25px;
+  margin-right: 8px;
+  vertical-align: middle;
 }
-.linkedin-icon {
-  filter: invert(35%) sepia(94%)
-          saturate(1260%) hue-rotate(175deg)
-          brightness(95%);
+.contact-section p i {
+  font-size: 20px;
+  margin-right: 8px;
 }
-.scholar-icon {
-  filter: brightness(0) invert(1);
+.social-links a:hover {
+  color: #ffffff;
+  text-decoration: none;
 }
 
 
@@ -293,30 +293,32 @@
     <!-- بخش تماس در انتهای صفحه ثابت می‌ماند -->
     
 
+
 <div class="contact-section">
   <h3>Contact Information</h3>
+
   <p>
     <a href="mailto:ashkan.amirnia@polymtl.ca">
-      ✉ ashkan.amirnia@polymtl.ca
+      <i class="fa-solid fa-envelope"></i>
+      ashkan.amirnia@polymtl.ca
     </a>
   </p>
+
   <div class="social-links">
     <a href="https://www.linkedin.com/in/ashkan-amirnia"
        target="_blank" rel="noopener noreferrer">
-      <img
-        src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/linkedin.svg"
-        alt="LinkedIn" class="social-icon linkedin-icon">
-      <span>LinkedIn</span>
+      <i class="fa-brands fa-linkedin"></i>
+      LinkedIn
     </a>
+
     <a href="https://scholar.google.com/citations?user=ERXe3A0AAAAJ&amp;hl=en"
        target="_blank" rel="noopener noreferrer">
-      <img
-        src="https://cdn.jsdelivr.net/npm/academicons@1.9.4/svg/google-scholar.svg"
-        alt="Google Scholar" class="social-icon scholar-icon">
-      <span>Google Scholar</span>
+      <i class="fa-solid fa-graduation-cap"></i>
+      Google Scholar
     </a>
   </div>
 </div>
+
 
 
   <!-- اسکریپت کوتاه جاوااسکریپت برای جابجایی بین تب‌ها -->
@@ -339,6 +341,6 @@
       document.getElementById(tabName).className += " active";
       evt.currentTarget.className += " active";
     }
-  </script>
-</body>
+    </script>
+  </body>
 </html>
