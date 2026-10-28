@@ -91,6 +91,34 @@
       margin-bottom: 20px;
     }
 
+    
+.contact-section {
+  text-align: center;
+  padding: 20px;
+}
+.contact-section a {
+  color: #00e6ff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+.contact-section a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+.social-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+.social-links a {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+
     /* --- استایل‌های مربوط به تب‌ها --- */
     .tab-container {
       display: flex;
