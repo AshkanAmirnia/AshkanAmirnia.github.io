@@ -22,11 +22,13 @@
       background-color: rgba(0, 0, 0, 0.5);
     }
     .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 30px 50px 50px 50px;
-      text-align: center;
-    }
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 30px 20px 50px 20px;
+  text-align: center;
+  box-sizing: border-box;
+}
     img.profile {
       width: 200px;
       height: 200px;
