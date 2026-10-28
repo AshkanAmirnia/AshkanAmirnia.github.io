@@ -39,10 +39,7 @@
 }
 /* Personal Quote Below Profile Picture */
 .personal-quote {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 30px;
+  text-align: center;
   /* Background */
   background-color: rgba(0, 0, 0, 0.6);
   padding: 25px;
@@ -50,22 +47,16 @@
   /* Spacing */
   margin-top: -10px;
   margin-bottom: 30px;
-  color: #ffffff;
-}
-.quote-en {
-  text-align: center;
+  /* Font */
   font-family: Georgia, serif;
   font-style: italic;
   font-size: 18px;
   line-height: 1.7;
+  color: #ffffff;
+  letter-spacing: 0.5px;
 }
-.quote-fa {
-  text-align: center;
-  font-family: Tahoma, sans-serif;
-  font-size: 18px;
-  line-height: 1.7;
-  border-left: 1px solid rgba(255,255,255,0.6);
-  padding-left: 30px;
+.personal-quote p {
+  margin: 3px 0;
 }
 .personal-quote p {
   margin: 3px 0;
@@ -145,21 +136,11 @@
   <div class="container">
     <img src="Ashkan.jpg" alt="Profile Picture" class="profile">
 
-    <div class="personal-quote">
-
-  <div class="quote-en">
+  <div class="personal-quote">
     <p>Engineer by training,</p>
     <p>Researcher by nature,</p>
     <p>Artist at heart...</p>
-  </div>
-
-  <div class="quote-fa" lang="fa" dir="rtl">
-    <p>مهندس به واسطه ی آموزش،</p>
-    <p>پژوهشگر به سرشت،</p>
-    <p>هنرمند در عمق جان...</p>
-  </div>
-
-</div>
+   </div>
     <!-- دکمه‌های تب‌ها -->
     <div class="tab-container">
       <button class="tab-button active" onclick="openTab(event, 'about')">About Me</button>
