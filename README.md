@@ -341,6 +341,6 @@
       document.getElementById(tabName).className += " active";
       evt.currentTarget.className += " active";
     }
-    </script>
-  </body>
+  </script>
+</body>
 </html>
