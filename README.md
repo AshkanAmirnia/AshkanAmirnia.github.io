@@ -253,7 +253,7 @@
     <a href="YOUR_LINKEDIN_URL" target="_blank" rel="noopener noreferrer">
       LinkedIn
     </a>
-    <a href="YOUR_GOOGLE_SCHOLAR_URL" target="_blank" rel="noopener noreferrer">
+    <a href="https://scholar.google.com/citations?user=ERXe3A0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
       Google Scholar
     </a>
   </div>
