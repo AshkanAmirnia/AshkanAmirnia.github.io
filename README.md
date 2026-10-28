@@ -16,11 +16,21 @@
       background-attachment: fixed; /* ثابت نگه داشتن پس‌زمینه هنگام اسکرول */
       color: #fff;
     }
-    .header {
+    /*.header {
       padding: 20px;
-      text-align: center;
+     text-align: center;
       background-color: rgba(0, 0, 0, 0.5);
-    }
+    }*/
+    .header {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 25px 20px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+  border-radius: 8px;
+}
     .container {
   width: 90%;
   max-width: 1200px;
