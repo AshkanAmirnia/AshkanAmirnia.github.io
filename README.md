@@ -241,8 +241,23 @@
     <hr class="section-divider">
     
     <!-- بخش تماس در انتهای صفحه ثابت می‌ماند -->
-    <h3>Contact Information</h3>
-    <p>You can reach me at: <a href="mailto:ashkan.amirnia@polymtl.ca" style="color: #00e6ff;">ashkan.amirnia@polymtl.ca</a></p>
+    
+<div class="contact-section">
+  <h3>Contact Information</h3>
+  <p>
+    <a href="mailto:ashkan.amirnia@polymtl.ca">
+      ✉ ashkan.amirnia@polymtl.ca
+    </a>
+  </p>
+  <div class="social-links">
+    <a href="YOUR_LINKEDIN_URL" target="_blank" rel="noopener noreferrer">
+      LinkedIn
+    </a>
+    <a href="YOUR_GOOGLE_SCHOLAR_URL" target="_blank" rel="noopener noreferrer">
+      Google Scholar
+    </a>
+  </div>
+</div>   
   </div>
 
   <!-- اسکریپت کوتاه جاوااسکریپت برای جابجایی بین تب‌ها -->
