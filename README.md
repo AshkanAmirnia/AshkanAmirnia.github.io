@@ -270,6 +270,7 @@
     
     <!-- بخش تماس در انتهای صفحه ثابت می‌ماند -->
     
+
 <div class="contact-section">
   <h3>Contact Information</h3>
   <p>
@@ -278,15 +279,23 @@
     </a>
   </p>
   <div class="social-links">
-    <a href="http://www.linkedin.com/in/ashkan-amirnia" target="_blank" rel="noopener noreferrer">
-      LinkedIn
+    <a href="https://www.linkedin.com/in/ashkan-amirnia"
+       target="_blank" rel="noopener noreferrer">
+      <img
+        src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/linkedin.svg"
+        alt="LinkedIn" class="social-icon linkedin-icon">
+      <span>LinkedIn</span>
     </a>
-    <a href="https://scholar.google.com/citations?user=ERXe3A0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
-      Google Scholar
+    <a href="https://scholar.google.com/citations?user=ERXe3A0AAAAJ&amp;hl=en"
+       target="_blank" rel="noopener noreferrer">
+      <img
+        src="https://cdn.jsdelivr.net/npm/academicons@1.9.4/svg/google-scholar.svg"
+        alt="Google Scholar" class="social-icon scholar-icon">
+      <span>Google Scholar</span>
     </a>
   </div>
-</div>   
-  </div>
+</div>
+
 
   <!-- اسکریپت کوتاه جاوااسکریپت برای جابجایی بین تب‌ها -->
   <script>
