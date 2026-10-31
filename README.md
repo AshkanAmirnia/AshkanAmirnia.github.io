@@ -252,6 +252,18 @@
     </div>
 
 
+    <!-- محتوای تب سوم: Education -->
+    <div id="education" class="tab-content">
+      <div class="left-align">
+        <h3>Education</h3>
+        <ul>
+          <li>PhD in Polytechnique montreal 2022-2025</li>
+          <li>Master of Engineering in Sharif university 2016-2019</li>
+          <li>Bachelor of Science in Shahid chamran university 2012-2016</li>
+        </ul>
+      </div>
+    </div>
+
 
 
     <!-- محتوای تب چهارم: Hobbies -->
@@ -271,18 +283,6 @@
 
 
 
-
-    <!-- محتوای تب سوم: Education -->
-    <div id="education" class="tab-content">
-      <div class="left-align">
-        <h3>Education</h3>
-        <ul>
-          <li>PhD in Polytechnique montreal 2022-2025</li>
-          <li>Master of Engineering in Sharif university 2016-2019</li>
-          <li>Bachelor of Science in Shahid chamran university 2012-2016</li>
-        </ul>
-      </div>
-    </div>
 
 
 
