@@ -32,11 +32,10 @@
   border-radius: 8px;
 }
     .container {
-  width: 90%;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 30px 20px 50px 20px;
-  text-align: center;
+  width: 94%;
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
   box-sizing: border-box;
 }
     img.profile {
