@@ -44,7 +44,19 @@
   margin-left: auto;
   margin-right: auto;
   box-sizing: border-box;
-}   
+}
+/* Main container */
+.container {
+  padding: 30px 20px 50px 20px;
+  text-align: center;
+}
+/* Header */
+.header {
+  padding: 25px 20px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 8px;
+}    
     img.profile {
       width: 200px;
       height: 200px;
