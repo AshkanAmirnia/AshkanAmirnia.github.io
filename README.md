@@ -21,7 +21,7 @@
      text-align: center;
       background-color: rgba(0, 0, 0, 0.5);
     }*/
-    .header {
+    /*.header {
   width: 90%;
   max-width: 1200px;
   margin: 0 auto;
@@ -36,7 +36,15 @@
   max-width: 1200px;
   margin: 0 auto;
   padding: 30px 20px 50px 20px;
-}
+}*/
+.container,
+.header {
+  width: 94%;
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+}   
     img.profile {
       width: 200px;
       height: 200px;
