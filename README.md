@@ -10,7 +10,7 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-image: url('11.png'); /* Replace 'background.jpg' with your background image path */
+      background-image: url('22.png'); /* Replace 'background.jpg' with your background image path */
       background-size: cover;
       background-position: center;
       background-attachment: fixed; /* ثابت نگه داشتن پس‌زمینه هنگام اسکرول */
