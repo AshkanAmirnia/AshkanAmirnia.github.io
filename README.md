@@ -41,7 +41,7 @@ body {
   align-items: center;
   gap: 30px;
 
-  background-color: rgba(9, 29, 51, 0.93);
+  background-color: rgba(16, 42, 67, 0.94);
   border: 1px solid rgba(212, 175, 112, 0.4);
   border-radius: 16px;
   box-sizing: border-box;
