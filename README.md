@@ -255,43 +255,7 @@ p {
 
 
     /* --- استایل‌های مربوط به تب‌ها --- */
-    .tab-container {
-      display: flex;
-      justify-content: center;
-      margin-bottom: 30px;
-      border-bottom: 20px;
-    }
-    .tab-button {
-      background-color: rgba(0, 0, 0, 0.6);
-      color: #fff;
-      border: 1px solid #fff;
-      padding: 10px 20px;
-      cursor: pointer;
-      font-size: 16px;
-      transition: 0.3s;
-      margin: 0 5px;
-      border-radius: 5px 5px 0 0;
-    }
-    .tab-button:hover {
-      background-color: rgba(255, 255, 255, 0.2);
-    }
-    .tab-button.active {
-      background-color: #fff;
-      color: #000;
-      font-weight: bold;
-    }
-    .tab-content {
-      display: none; /* در حالت عادی همه بخش‌ها مخفی هستند */
-      background-color: rgba(0, 0, 0, 0.6); /* پس‌زمینه تیره برای خوانایی بهتر متن */
-      padding: 25px;
-      border-radius: 8px;
-    }
-    .tab-content.active {
-      display: block; /* فقط بخش فعال نمایش داده می‌شود */
-    }
-  </style>
-</head>
-<body>
+    
 
 <header class="header">
   <div class="header-info">
