@@ -131,9 +131,9 @@ body {
 /* Tab content */
 .tab-content {
   display: none;
-  background-color: rgba(9, 29, 51, 0.92);
+  background-color: rgba(20, 36, 56, 0.94);
   padding: 30px;
-  border: 1px solid rgba(212, 175, 112, 0.3);
+  border: 1px solid rgba(212, 175, 112, 0.35);
   border-radius: 12px;
   line-height: 1.8;
 }
@@ -310,7 +310,7 @@ p {
     <h1>Ashkan Amirnia</h1>
     <!-- <h2>ML Researcher</h2>-->
     <p class="research-fields">
-      Reinfroecement Learning | Deep Learning | Computer Vision | Production Planning
+      Reinforcement Learning | Deep Learning | Computer Vision | Production Planning
     </p>
     <p class="header-quote">
       Engineer by training, Researcher by nature,
