@@ -299,7 +299,7 @@ p {
     <h1>Ashkan Amirnia</h1>
     <!-- <h2>ML Researcher</h2>-->
     <p class="research-fields">
-      Reinfroecement Learning | Deep Learning | Cpmputer Vision | Production Planning
+      Reinfroecement Learning | Deep Learning | Computer Vision | Production Planning
     </p>
     <p class="header-quote">
       Engineer by training, Researcher by nature,
