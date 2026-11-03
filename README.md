@@ -131,7 +131,7 @@ body {
 /* Tab content */
 .tab-content {
   display: none;
-  background-color: rgba(20, 36, 56, 0.94);
+  background-color: rgba(20, 36, 56, 0.96);
   padding: 30px;
   border: 1px solid rgba(212, 175, 112, 0.35);
   border-radius: 12px;
@@ -287,7 +287,7 @@ p {
     }
     .tab-content {
       display: none; /* در حالت عادی همه بخش‌ها مخفی هستند */
-      background-color: rgba(0, 0, 0, 0.6); /* پس‌زمینه تیره برای خوانایی بهتر متن */
+      background-color: rgba(20, 36, 56, 0.96); /* پس‌زمینه تیره برای خوانایی بهتر متن */
       padding: 25px;
       border-radius: 8px;
     }
