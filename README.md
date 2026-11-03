@@ -6,139 +6,176 @@
   <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-image: url('image_1.jpg'); /* Replace 'background.jpg' with your background image path */
-      background-size: cover;
-      background-position: center;
-      background-attachment: fixed; /* ثابت نگه داشتن پس‌زمینه هنگام اسکرول */
-      color: #fff;
-    }
-    /*.header {
-      padding: 20px;
-     text-align: center;
-      background-color: rgba(0, 0, 0, 0.5);
-    }*/
-    /*.header {
-  width: 90%;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 25px 20px;
-  text-align: center;
-  background-color: rgba(0, 0, 0, 0.5);
-  box-sizing: border-box;
-  border-radius: 8px;
+    
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url('image_1.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-color: #091d33;
+  color: #fff;
 }
-    .container {
-  width: 90%;
-  max-width: 1200px;
+
+/* Main container */
+.container {
+  width: 94%;
+  max-width: 1500px;
   margin: 0 auto;
-  padding: 30px 20px 50px 20px;
-}*/
-.container,
+  padding: 30px 20px 50px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+/* New Header */
 .header {
   width: 94%;
   max-width: 1500px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 30px auto 0;
+  padding: 40px 50px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+
+  background-color: rgba(9, 29, 51, 0.93);
+  border: 1px solid rgba(212, 175, 112, 0.4);
+  border-radius: 16px;
   box-sizing: border-box;
+
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.25);
 }
-/* Main container */
-.container {
-  padding: 30px 20px 50px 20px;
-  text-align: center;
+
+.header-info {
+  text-align: left;
+  flex: 1;
 }
-/* Header */
-.header {
-  padding: 25px 20px;
-  text-align: center;
-  background-color: rgba(0, 0, 0, 0.5);
-  border-radius: 8px;
-}    
-    img.profile {
-      width: 200px;
-      height: 200px;
-      border-radius: 50%;
-      margin-bottom: 20px;
-    }
-    img.profile {
-  width: 200px;
-  height: 200px;
+
+.welcome-text {
+  color: #d4af70;
+  font-size: 15px;
+  letter-spacing: 1px;
+  margin: 0 0 12px;
+}
+
+.header h1 {
+  font-size: 38px;
+  margin: 10px 0;
+  color: #ffffff;
+}
+
+.header h2 {
+  font-size: 20px;
+  font-weight: normal;
+  color: #d4af70;
+  margin: 10px 0;
+}
+
+.research-fields {
+  font-size: 15px;
+  color: #e0e0e0;
+  line-height: 1.7;
+}
+
+.header-quote {
+  font-family: Georgia, serif;
+  font-style: italic;
+  font-size: 17px;
+  color: #f0e6d2;
+  margin-top: 25px;
+  line-height: 1.8;
+}
+
+.header-profile {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
   border-radius: 50%;
-  margin-bottom: 20px;
+  border: 3px solid #d4af70;
+  flex-shrink: 0;
 }
-  .tab-container {
+
+/* Tabs */
+.tab-container {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
   gap: 10px;
   margin-bottom: 30px;
 }
-/* Personal Quote Below Profile Picture */
-.personal-quote {
-  text-align: center;
-  /* Background */
-  background-color: rgba(0, 0, 0, 0.6);
-  padding: 25px;
-  border-radius: 8px;
-  /* Spacing */
-  margin-top: -10px;
-  margin-bottom: 30px;
-  /* Font */
-  font-family: Georgia, serif;
-  font-style: italic;
-  font-size: 18px;
-  line-height: 1.7;
+
+.tab-button {
+  background-color: rgba(9, 29, 51, 0.85);
   color: #ffffff;
-  letter-spacing: 0.5px;
+  border: 1px solid #d4af70;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: 0.3s;
+  border-radius: 6px;
 }
-.personal-quote p {
-  margin: 3px 0;
-}
-.personal-quote p {
-  margin: 3px 0;
-}
-@media (max-width: 600px) {
-  .personal-quote {
-    flex-direction: column;
-    gap: 15px;
-  }
-  .quote-fa {
-    border-left: none;
-    border-top: 1px solid rgba(255,255,255,0.6);
-    padding-left: 0;
-    padding-top: 15px;
-  }
-}   
-    h1, h2, h3 {
-      margin-bottom: 20px;
-    }
-    p {
-      margin-bottom: 10px;
-    }
-    .left-align {
-      text-align: left;
-    }
-    .justify {
-      text-align: justify;
-    }
-    .section-divider {
-      border-top: 1px solid #fff;
-      margin-top: 20px;
-      margin-bottom: 20px;
-    }
 
-    
+.tab-button:hover {
+  background-color: rgba(212, 175, 112, 0.25);
+}
 
+.tab-button.active {
+  background-color: #d4af70;
+  color: #091d33;
+  font-weight: bold;
+}
+
+/* Tab content */
+.tab-content {
+  display: none;
+  background-color: rgba(9, 29, 51, 0.92);
+  padding: 30px;
+  border: 1px solid rgba(212, 175, 112, 0.3);
+  border-radius: 12px;
+  line-height: 1.8;
+}
+
+.tab-content.active {
+  display: block;
+}
+
+.tab-content p {
+  font-size: 17px;
+  line-height: 1.9;
+}
+
+h1, h2, h3 {
+  margin-bottom: 20px;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+.left-align {
+  text-align: left;
+}
+
+.justify {
+  text-align: justify;
+}
+
+.section-divider {
+  border-top: 1px solid rgba(212, 175, 112, 0.5);
+  margin: 25px 0;
+}
+
+/* Contact */
 .contact-section {
   text-align: center;
   padding: 20px;
 }
 
 .contact-section a {
-  color: #00e6ff;
+  color: #d4af70;
   text-decoration: none;
   transition: color 0.3s ease;
 }
@@ -147,6 +184,7 @@
   color: #ffffff;
   text-decoration: underline;
 }
+
 .social-links {
   display: flex;
   justify-content: center;
@@ -155,6 +193,7 @@
   margin-top: 20px;
   flex-wrap: wrap;
 }
+
 .social-links a {
   display: inline-flex;
   align-items: center;
@@ -162,19 +201,56 @@
   font-size: 17px;
   font-weight: bold;
 }
+
 .social-links a i {
   font-size: 25px;
-  margin-right: 8px;
-  vertical-align: middle;
 }
+
 .contact-section p i {
   font-size: 20px;
   margin-right: 8px;
 }
-.social-links a:hover {
-  color: #ffffff;
-  text-decoration: none;
+
+/* Mobile */
+@media (max-width: 768px) {
+  body {
+    background-attachment: scroll;
+  }
+
+  .header {
+    flex-direction: column-reverse;
+    text-align: center;
+    padding: 30px 20px;
+  }
+
+  .header-info {
+    text-align: center;
+  }
+
+  .header h1 {
+    font-size: 30px;
+  }
+
+  .header-profile {
+    width: 140px;
+    height: 140px;
+  }
+
+  .container {
+    width: 96%;
+    padding: 20px 10px 35px;
+  }
+
+  .tab-content {
+    padding: 20px;
+  }
+
+  .tab-button {
+    font-size: 14px;
+    padding: 10px 12px;
+  }
 }
+
 
 
 
@@ -216,18 +292,47 @@
   </style>
 </head>
 <body>
-  <div class="header">
+  /*<div class="header">
     <h1>Welcome / خوش آمدید</h1>
-  </div>
- 
-  <div class="container">
-    <img src="Ashkan.jpg" alt="Profile Picture" class="profile">
+  </div>*/
 
+<header class="header">
+  <div class="header-info">
+    <p class="welcome-text">Welcome / خوش آمدید</p>
+    <h1>Ashkan Amirnia</h1>
+    <h2>ML Researcher</h2>
+    <p class="research-fields">
+      Artificial Intelligence | Machine Learning | Optimization
+    </p>
+    <p class="header-quote">
+      Engineer by training, Researcher by nature,
+      Artist at heart.
+    </p>
+  </div>
+  <img src="Ashkan.jpg"
+       alt="Ashkan Amirnia"
+       class="header-profile">
+</header>
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  /*<div class="container">
+    <img src="Ashkan.jpg" alt="Profile Picture" class="profile">
   <div class="personal-quote">
     <p>Engineer by training,</p>
     <p>Researcher by nature,</p>
     <p>Artist at heart...</p>
-   </div>
+   </div>*/
     <!-- دکمه‌های تب‌ها -->
     <div class="tab-container">
       <button class="tab-button active" onclick="openTab(event, 'about')">About Me</button>
