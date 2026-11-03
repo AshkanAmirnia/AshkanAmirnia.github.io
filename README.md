@@ -11,7 +11,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-image: url('22.png');
+  background-image: url('image_1.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
