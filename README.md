@@ -292,9 +292,6 @@ p {
   </style>
 </head>
 <body>
-  /*<div class="header">
-    <h1>Welcome / خوش آمدید</h1>
-  </div>*/
 
 <header class="header">
   <div class="header-info">
