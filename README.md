@@ -323,13 +323,13 @@ p {
 
 
  
-  /*<div class="container">
-    <img src="Ashkan.jpg" alt="Profile Picture" class="profile">
-  <div class="personal-quote">
-    <p>Engineer by training,</p>
-    <p>Researcher by nature,</p>
-    <p>Artist at heart...</p>
-   </div>*/
+  <!--/*<div class="container">-->
+   <!-- <img src="Ashkan.jpg" alt="Profile Picture" class="profile">-->
+ <!-- <div class="personal-quote">-->
+   <!-- <p>Engineer by training,</p>-->
+   <!-- <p>Researcher by nature,</p>-->
+   <!-- <p>Artist at heart...</p>-->
+  <!-- </div>*/-->
     <!-- دکمه‌های تب‌ها -->
     <div class="tab-container">
       <button class="tab-button active" onclick="openTab(event, 'about')">About Me</button>
