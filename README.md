@@ -297,7 +297,7 @@ p {
   <div class="header-info">
     <p class="welcome-text">Welcome / خوش آمدید</p>
     <h1>Ashkan Amirnia</h1>
-    <h2>ML Researcher</h2>
+    <!-- <h2>ML Researcher</h2>-->
     <p class="research-fields">
       Artificial Intelligence | Machine Learning | Optimization
     </p>
