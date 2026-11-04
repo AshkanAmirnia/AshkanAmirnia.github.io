@@ -317,7 +317,7 @@ p {
       Artist at heart.
     </p>
   </div>
-  <img src="Ashkan.jpg"
+  <img src="AA.png"
        alt="Ashkan Amirnia"
        class="header-profile">
 </header>
