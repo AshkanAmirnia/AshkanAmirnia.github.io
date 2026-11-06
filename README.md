@@ -378,7 +378,15 @@ p {
       <li>Project Management</li>
       <li>Storytelling</li>
     </ul>
-        
+
+    <h4>Languages</h4>
+    <ul>
+      <li>Persian: Native</li>
+      <li>English: Full professional proficiency</li>
+      <li>Spanish: Limited working proficiency</li>
+      <li>French: Limited working proficiency</li>      
+    </ul>
+    
       </div>
     </div>
 
