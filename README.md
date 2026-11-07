@@ -361,9 +361,8 @@ p {
     <!-- محتوای تب دوم: Skills -->
 <div id="skills" class="tab-content">
   <div class="left-align">
-    <h3>My Skills</h3>
 
-    <h4>Technical Skills</h4>
+    <h3>Technical Skills</h3>
     <ul>
       <li>Applied Machine Learning</li>
       <li>Reinforcement Learning</li>
@@ -372,14 +371,14 @@ p {
       <li>Production Planning</li>
     </ul>
 
-    <h4>Soft Skills</h4>
+    <h3>Soft Skills</h3>
     <ul>
       <li>Teamwork</li>
       <li>Project Management</li>
       <li>Storytelling</li>
     </ul>
 
-    <h4>Languages</h4>
+    <h3>Languages</h3>
     <ul>
       <li>Persian: Native</li>
       <li>English: Full professional proficiency</li>
