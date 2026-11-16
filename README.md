@@ -364,11 +364,11 @@ p {
 
     <h3>Technical Skills</h3>
     <ul>
-      <li>Applied Machine Learning</li>
-      <li>Reinforcement Learning</li>
-      <li>Computer Vision</li>
-      <li>Recommender Systems and Personalization</li>
-      <li>Production Planning</li>
+      <li>Programming: Python, C/C++, Matlab</li>
+      <li>Data Analysis Libraries: TensorFlow, Pytorch, Scikit Learn, OpenCV, NetworkX, LangChain</li>
+      <li>Operating Systems: Windows, Ubuntu, Raspbian</li>
+      <li>Parallel Programing libraries: CUDA</li>
+      <li>Cloud Computing: Microsoft Azure</li>
     </ul>
 
     <h3>Soft Skills</h3>
