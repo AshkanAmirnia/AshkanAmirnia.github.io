@@ -365,7 +365,7 @@ p {
     <h3>Technical Skills</h3>
     <ul>
       <li>Programming: Python, C/C++, Matlab</li>
-      <li>Data Analysis Libraries: TensorFlow, Pytorch, Scikit Learn, OpenCV, NetworkX, LangChain</li>
+      <li>Data Analysis Libraries: Pandas, TensorFlow, Pytorch, Scikit Learn, OpenCV, NetworkX, LangChain, Albumentations</li>
       <li>Operating Systems: Windows, Ubuntu, Raspbian</li>
       <li>Parallel Programing libraries: CUDA</li>
       <li>Cloud Computing: Microsoft Azure</li>
